@@ -11,7 +11,7 @@
 ## 安装使用
 
 ```bash
-$ git clone http://192.168.110.46:9099/root/pyramid-h5.git
+$ git clone https://github.com/lovehebe330/lovehebe330.git
 
 Install dependencies
 yarn install
