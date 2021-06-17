@@ -1,7 +1,7 @@
 {
-  "name": "pyramid-h5",
+  "name": "chen-h5",
   "version": "3.0.0",
-  "author": "chenshengquan",
+  "author": "chen",
   "scripts": {
     "build": "cross-env NODE_ENV=production vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
